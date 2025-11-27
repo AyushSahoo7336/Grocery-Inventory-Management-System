@@ -17,7 +17,6 @@ A complete full-stack inventory management system built with MERN stack for groc
 - **🚀 Auto Registration** - New users created on first login
 
 ### 💼 Business Features
-- **₹ Indian Pricing** - Support for Indian Rupee currency
 - **📈 Inventory Analytics** - Track revenue, sales, and stock levels
 - **🔄 Real-time Updates** - Instant inventory synchronization
 - **📱 Responsive Design** - Works on desktop and mobile
